@@ -2,10 +2,14 @@ import React from 'react'
 
 const Sidebar = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+      <div className='container'>
+          Sidebar
+      </div>
+    </>
+    
   )
 }
 
 export default Sidebar
+
